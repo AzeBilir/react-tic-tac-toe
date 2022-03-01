@@ -6,6 +6,8 @@ First user which is X select and fill that one squares and the next user is O an
 
 <img width="630" alt="ttt-1" src="https://user-images.githubusercontent.com/83697951/156180369-ce1443b6-4bec-4c73-9c12-0f77e698decd.png">
 
+<img width="663" alt="ttt-2" src="https://user-images.githubusercontent.com/83697951/156180441-42f2f97c-e1a1-4637-9624-bfa154c5b367.png">
+
 
 
 
