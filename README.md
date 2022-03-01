@@ -8,7 +8,7 @@ First user which is X select and fill that one squares and the next user is O an
 
 <img width="663" alt="ttt-2" src="https://user-images.githubusercontent.com/83697951/156180441-42f2f97c-e1a1-4637-9624-bfa154c5b367.png">
 
-
+<img width="672" alt="ttt-3" src="https://user-images.githubusercontent.com/83697951/156180502-7eec5704-b618-4f1c-a12a-832799e7aa74.png">
 
 
 
