@@ -10,7 +10,7 @@ First user which is X select and fill that one squares and the next user is O an
 
 ## Install
 
-- Clone "react-e-commerce-project" repository from Github
+- Clone "react-tic-tac-toe" repository from Github
 
   git clone https://github.com/AzeBilir/react-tic-tac-toe.git
 
